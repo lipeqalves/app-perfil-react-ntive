@@ -20,9 +20,9 @@ export default function Home(props) {
             </View>
             <View style={styles.boxButton} >
                 <Button
-                    title="Projeto Perfil"
+                    title="Projeto Paraty"
                     onPress={
-                        () => { props.navigation.navigate('Projeto Perfil') }
+                        () => { props.navigation.navigate('Projeto Paraty') }
                     }
                 />
             </View>
